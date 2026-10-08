@@ -2,7 +2,7 @@
 
 ### Machine Learning Based House Price Prediction
 
-Aawas Predict is a small end-to-end machine learning project that estimates the price of a residential property in Mumbai from a few basic details entered by the user.
+Aawas Predict is an end-to-end machine learning application that estimates the price of a residential property in Mumbai based on a few basic details provided by the user.
 
 The project covers the complete journey from **data preparation and model training to a working prediction application**. A Random Forest regression model is trained on the Mumbai house-price dataset and then used through a Flask backend and Streamlit interface.
 
