@@ -1,6 +1,6 @@
 # Aawas Predict 🏠
 
-### Mumbai House Price Prediction using Machine Learning
+### Machine Learning Based House Price Prediction
 
 Aawas Predict is a small end-to-end machine learning project that estimates the price of a residential property in Mumbai from a few basic details entered by the user.
 
